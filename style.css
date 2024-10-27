@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.topber{
+    background-color: tomato;
+    padding: 50px 0;
+
+}
+.container{
+    height: 50px;
+    width: 1320px;
+    background: brown;
+    margin: 0 auto;
+}
+.banner{
+    background: olive;
+    padding: 50px 0;
+}
+.topber h6{
+    text-align: center;
+    color: #000000;
+}
